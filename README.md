@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tasiyaah
+- 👀 I’m interested in Image Proccessing
+- 🌱 I’m currently learning AI,Python
+- 💞️ I’m looking to collaborate on Medical- Field
+- 📫 Knock me!
